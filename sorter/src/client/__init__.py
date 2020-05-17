@@ -1,4 +1,4 @@
-import rpcam
+from client import rpcam
 
 def run():
     rpcam.showCamStream()
