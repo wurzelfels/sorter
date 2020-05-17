@@ -1,4 +1,5 @@
-import test
+import rpcam
 
 def run():
-    print("ruuuuuun!")
+    rpcam.showCamStream()
+    print("worked")
