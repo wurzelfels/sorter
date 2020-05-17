@@ -1,4 +1,4 @@
+import test
+
 def run():
     print("ruuuuuun!")
-
-print("imported.")
