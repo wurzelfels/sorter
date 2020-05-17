@@ -9,5 +9,5 @@ def showCamStream():
     camera.stop_preview()
     
     
-    plt.plot([-1, -4.5, 16, 23, 15, 59])
+    plt.plot([-1, -4.5, 16, 23, 15, 60])
     plt.show()
